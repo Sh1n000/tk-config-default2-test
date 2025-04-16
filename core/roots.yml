@@ -49,7 +49,8 @@ primary:
     # these paths will be populated by the associated local storage in Shotgun
     # at setup time.
     mac_path:
-    linux_path:
+    linux_path:/home/rapa/nas/test_sgtk/configs/constantine_git_test/tk-config-default2-test
+
     windows_path:
 
     # indicates that this is the default storage root
